@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: E2
+  m_EditorClassIdentifier: 
+  storyText: "You travel to the King's castle and immediately start bringing destruction
+    upon the people. The evil has overtaken and you have fallen into total depravity.
+    However, there still remains a small light within you. Will you defeat the King
+    and continue to bring darkness upon the people?  \n\nWhat's my move?\n1. Kill
+    the King.\n2. Fight the evil within you."
+  nextStates:
+  - {fileID: 11400000, guid: 804139c6dfa3dd64a8950877e3b90499, type: 2}
+  - {fileID: 11400000, guid: 1fe6e30d591a44d4f88d4264b57053f4, type: 2}

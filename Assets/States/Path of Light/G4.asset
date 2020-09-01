@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: G4
+  m_EditorClassIdentifier: 
+  storyText: 'You activate the power of light and The Spellsword becomes covered
+    in bright yellow flames. The King has transformed into an almost demon-like creature
+    with horns sticking out from his head. He attempts to strike you but the yellow
+    flames easily deflect his attack.
+
+
+    What''s my move?
+
+    1. Direct your
+    yellow flames at the King.
+
+    2. Wait for his next move.'
+  nextStates:
+  - {fileID: 11400000, guid: bc275b9fc53808d4d94eae6288159580, type: 2}
+  - {fileID: 11400000, guid: c2930621082d47f4786459440b212471, type: 2}

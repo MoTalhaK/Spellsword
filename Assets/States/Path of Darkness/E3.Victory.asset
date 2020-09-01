@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: E3.Victory
+  m_EditorClassIdentifier: 
+  storyText: "You face the King and swiftly defeat him as he proves to be no match
+    for The Spellsword in its darkened state. You claim the throne and begin your
+    reign as the new King of the lands, bringing terror upon everyone.  \n\nDarkness
+    has overtaken you and left you without emotion. Your reign begins now.\nTHE END\n\nPlay
+    again?\n1. Yes, maybe there's a different path to take.\n2. No, I think I'm good.\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: 41edb13974d5aed4d8d8363e73349278, type: 2}
+  - {fileID: 11400000, guid: f217486557cba9445a995be05219dd5e, type: 2}

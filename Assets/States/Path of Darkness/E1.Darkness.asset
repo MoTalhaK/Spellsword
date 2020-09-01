@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: E1.Darkness
+  m_EditorClassIdentifier: 
+  storyText: "The Spellsword begins to glow black and you feel the temptation of
+    evil spitits. Darkness overcomes you and you slaughter every last member of the
+    Guild. \"I won't take help from anyone. I will kill everyone and the King, then
+    I will be the one to rule these lands!!\"  \n\nWhat's my move?\n1. Continue."
+  nextStates:
+  - {fileID: 11400000, guid: 2d59b55bd720c0940b337f95fca91e95, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: G6. Victory
+  m_EditorClassIdentifier: 
+  storyText: 'The yellow flames from The Spellsword charge straight at the King.
+    He tries to deflect your attack with his dark flames but they are easily overpowered
+    and the King is engulfed in fiery yellow flames. "Ahhhh, how can this be happening!!
+    I am supposed to be victorious, not you meddling warriors from the Guild!! Ahhhhhhhhh,
+    the power..... of.... darkness... always prevails....." The King falls down on
+    his back. You have won. You have defeated the King. and put an end to his terror.
+
+    THE
+    END
+
+
+    Play again?
+
+    1. Yes, maybe there''s a different path to take.
+
+    2.
+    No, I think I''m good.'
+  nextStates:
+  - {fileID: 11400000, guid: 41edb13974d5aed4d8d8363e73349278, type: 2}
+  - {fileID: 11400000, guid: f217486557cba9445a995be05219dd5e, type: 2}

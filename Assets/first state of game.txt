@@ -1,0 +1,11 @@
+You wake up only to find yourself locked in a prsion cell. 
+"What is this, where - where am i?".
+A stranger in the cell next to you begins speaking.
+"You really don't remember? You killed the King's son!"
+You are unable to recall any of this and know there must
+be some sort of mistake. "I need to find a way out of here."
+
+What's my move?
+1. Wait for a guard to pass by and steal his keys.
+2. Wait for execution day and make a run for it.
+

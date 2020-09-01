@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: X3.Game Over
+  m_EditorClassIdentifier: 
+  storyText: 'You run but are quickly taken down by the warriors. "Coward. A true
+    warrior never runs."
+
+
+    Want to try again?
+
+    1. Yes, I shall be victorious
+    this time.
+
+    2. No, I think I''ll hold on a moment.
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 41edb13974d5aed4d8d8363e73349278, type: 2}
+  - {fileID: 11400000, guid: f217486557cba9445a995be05219dd5e, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: C1. The Portal
+  m_EditorClassIdentifier: 
+  storyText: 'You emerge from the portal and everything seems fuzzy, you can''t seem
+    to focus. A mysterious figure appears almost out of thin air. She explains that
+    the Prince had been corrupted by some dark magic and  you had no choice but to
+    kill him before he could do more harm. The lady offers you a weapon, "The Spellsword"
+
+
+    What''s
+    my move?
+
+    1. Take the mysterious blade.
+
+    2. Decline and head back through
+    the portal.'
+  nextStates:
+  - {fileID: 11400000, guid: 639059711bb87bc4f95a0ffeeb22eb3c, type: 2}
+  - {fileID: 11400000, guid: 76e185e283807cb44a662166d97a8421, type: 2}

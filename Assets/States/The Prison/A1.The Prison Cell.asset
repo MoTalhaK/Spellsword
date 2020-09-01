@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: A1.The Prison Cell
+  m_EditorClassIdentifier: 
+  storyText: 'You wake up only to find yourself
+
+    locked in a prsion cell. "What
+    is this, where - where am i?".
+
+    A stranger in the cell next to you begins
+    speaking.
+
+    "You really don''t remember? You killed the King''s son!"
+
+    You
+    are unable to recall any of this and know there must
+
+    be some sort of mistake.
+    "I need to find a way out of here."
+
+
+
+    What''s my move?
+
+    1. Wait for
+    a guard to pass by and steal his keys.
+
+    2. Wait for execution day and make
+    a run for it.'
+  nextStates:
+  - {fileID: 11400000, guid: 6185e7275c070414c9af481012fe0633, type: 2}
+  - {fileID: 11400000, guid: 9fdeba41417a2b243b8de025bd3427c7, type: 2}

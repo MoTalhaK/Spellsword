@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: G7
+  m_EditorClassIdentifier: 
+  storyText: 'You shoot a bolt of lightning but it barely misses the King. He charges
+    directly at you and swings his blade.
+
+
+    What''s my move?
+
+    1. Dodge to
+    the left.
+
+    2. Dodge to the right.'
+  nextStates:
+  - {fileID: 11400000, guid: 18baee14caff56f4296397702af3de13, type: 2}
+  - {fileID: 11400000, guid: e61628c13c267da408b7f1941c17a944, type: 2}

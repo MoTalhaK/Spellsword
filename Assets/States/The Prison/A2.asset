@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: 'You manage to swipe the keys off the guard as he walks by. "I need
+    to get out of here quick before he notices the keys are missing." You unlock
+    the cell and make a run for it but one of the guards spots you and starts running
+    after you. "Crap. Where was he hiding?!?" All of a sudden, out of nowhere, a
+    strange portal appears on the side of the wall.
+
+
+    What''s my move?
+
+    1.
+    Face the guard head on.
+
+    2. Enter the mysterious portal.'
+  nextStates:
+  - {fileID: 11400000, guid: 789c1bd56004d5041933596416615773, type: 2}
+  - {fileID: 11400000, guid: 22d96802fab03d7418b7c92e6a623f70, type: 2}

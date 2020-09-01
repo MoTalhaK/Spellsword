@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: F1.The Back Entrance
+  m_EditorClassIdentifier: 
+  storyText: "The rest of the Guild begins sieging the castle as you head on through
+    the back entrance. The area inside seems to be riddled with traps and a pair
+    of guards.    \n\nWhat's my move?\n1. Sneak past.\n2. Distract the guards."
+  nextStates:
+  - {fileID: 11400000, guid: f93fe984d6bee8548a4d9a2146313389, type: 2}
+  - {fileID: 11400000, guid: 5dee8902eea099746aa25b493764dd8f, type: 2}

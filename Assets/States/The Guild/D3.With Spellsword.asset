@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20834139aaa9626419ddf366e7afc94b, type: 3}
+  m_Name: D3.With Spellsword
+  m_EditorClassIdentifier: 
+  storyText: "\"Welcome to The Guild. We are a group of warriors who banded together
+    in order to put an end to all the meaningless wars caused by the King. We want
+    you to help us bring him down. But before we can let you join our ranks, we have
+    a little challenge for you. You have to fight me, The Guildmaster, in a duel.\"  
+    \n\nWhat's my move?\n1. Accept.\n2. Decline."
+  nextStates:
+  - {fileID: 11400000, guid: 51d5ba24be3b1724a8479c20a908dfe2, type: 2}
+  - {fileID: 11400000, guid: 6133991a2a1d4444ea2eae1729c00623, type: 2}
